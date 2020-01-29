@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f1322a5-228b-4343-8a18-ab47e452e5f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/greet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/greet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_pratice/GreetKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/GreetKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_pratice/META-INF/kotlin_pratice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/META-INF/kotlin_pratice.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.AddKt">
+  <component name="RunManager" selected="Kotlin.If_else_expressionKt">
     <configuration name="AddKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_pratice" />
       <option name="VM_PARAMETERS" />
@@ -64,6 +64,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="GreetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If_else_expressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin_pratice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="If_else_expressionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.If_else_expressionKt" />
         <item itemvalue="Kotlin.AddKt" />
         <item itemvalue="Kotlin.GreetKt" />
         <item itemvalue="Kotlin script.greet.kts" />
@@ -122,7 +136,19 @@
       <option name="presentableId" value="Default" />
       <updated>1580145156919</updated>
     </task>
+    <task id="LOCAL-00001" summary="getter and setter in kotlin">
+      <created>1580322738723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580322738724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="getter and setter in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="getter and setter in kotlin" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="215" width="800" height="684" key="#Project_Structure" timestamp="1580145292780">
@@ -137,30 +163,30 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="768" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1580321189757" />
-    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2" timestamp="1580322707024">
+    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2" timestamp="1580322738479">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1580322707024" />
+    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1580322738479" />
     <state x="182" y="121" width="1536" height="879" key="DiffContextDialog" timestamp="1580322680603">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="182" y="121" width="1536" height="879" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580322680603" />
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1580322707068">
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1580323879975">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580322707068" />
-    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1580322707068">
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879975" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1580323879972">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580322707068" />
-    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1580322707068">
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879972" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1580323879971">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580322707068" />
-    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1580322707068">
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879971" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1580323879973">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580322707068" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879973" />
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580145331244">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
