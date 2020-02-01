@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f1322a5-228b-4343-8a18-ab47e452e5f0" name="Default Changelist" comment="">
+    <list default="true" id="4f1322a5-228b-4343-8a18-ab47e452e5f0" name="Default Changelist" comment="switch case in kotlin using when keyword">
+      <change afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/AddKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/If_else_expressionKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/Str_cmpKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/learn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/str_cmp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin_pratice/GreetKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/GreetKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin_pratice/META-INF/kotlin_pratice.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_pratice/META-INF/kotlin_pratice.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.If_else_expressionKt">
+  <component name="RunManager" selected="Kotlin.GreetKt">
     <configuration name="AddKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_pratice" />
       <option name="VM_PARAMETERS" />
@@ -82,35 +89,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="greet.kts" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script" temporary="true" nameIsGenerated="true">
+    <configuration name="Str_cmpKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin_pratice" />
-      <option name="filePath" value="$PROJECT_DIR$/greet.kts" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="MAIN_CLASS_NAME" value="Str_cmpKt" />
       <option name="WORKING_DIRECTORY" />
-      <option name="filePath" value="$PROJECT_DIR$/greet.kts" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin_pratice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="MAIN_CLASS_NAME" value="SwitchKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,10 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GreetKt" />
+        <item itemvalue="Kotlin.SwitchKt" />
+        <item itemvalue="Kotlin.Str_cmpKt" />
         <item itemvalue="Kotlin.If_else_expressionKt" />
         <item itemvalue="Kotlin.AddKt" />
-        <item itemvalue="Kotlin.GreetKt" />
-        <item itemvalue="Kotlin script.greet.kts" />
       </list>
     </recent_temporary>
   </component>
@@ -143,12 +143,29 @@
       <option name="project" value="LOCAL" />
       <updated>1580322738724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="addition program">
+      <created>1580323928403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580323928403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="if else in kotlin">
+      <created>1580323959920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580323959920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="getter and setter in kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="getter and setter in kotlin" />
+    <MESSAGE value="addition program" />
+    <MESSAGE value="if else in kotlin" />
+    <MESSAGE value="switch case in kotlin using when keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="switch case in kotlin using when keyword" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="215" width="800" height="684" key="#Project_Structure" timestamp="1580145292780">
@@ -159,41 +176,49 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580145663725" />
-    <state x="768" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1580321189757">
+    <state x="768" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1580401924195">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="768" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1580321189757" />
-    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2" timestamp="1580323928330">
+    <state x="768" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1580401924195" />
+    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2" timestamp="1580561703735">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1580323928330" />
-    <state x="182" y="121" width="1536" height="879" key="DiffContextDialog" timestamp="1580322680603">
+    <state x="566" y="144" width="777" height="825" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1580561703735" />
+    <state x="182" y="121" width="1536" height="879" key="DiffContextDialog" timestamp="1580561651241">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="182" y="121" width="1536" height="879" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580322680603" />
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1580323879975">
+    <state x="182" y="121" width="1536" height="879" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580561651241" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1580561976296">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879975" />
-    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1580323879972">
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580561976296" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1580561976294">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879972" />
-    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1580323879971">
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580561976294" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1580561976293">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879971" />
-    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1580323879973">
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580561976293" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1580561976295">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580323879973" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580561976295" />
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580145331244">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1580145331244" />
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1580561736883">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1580561736883" />
     <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1580145181861">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1580145181861" />
+    <state x="728" y="473" width="454" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580561728059">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="728" y="473" width="454" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1580561728059" />
   </component>
 </project>
