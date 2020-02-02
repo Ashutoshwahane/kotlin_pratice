@@ -1,3 +1,6 @@
+// to create readable class name
+@file:JvmName("fun")
+
 fun main(args: Array<String>){
 
     add(8,2)
