@@ -6,6 +6,7 @@ fun main(args: Array<String>){
         println("using .. $i")
     }
     // ascending using until keyword
+    // here until is a infix funtion means we can call a class funtion without using .
     var num1 = 1 until 10
     for(i in num1){
         println("using until $i")
